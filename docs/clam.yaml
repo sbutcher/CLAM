@@ -22,6 +22,8 @@ dependencies:
   - cffi
   - cycler
   - cython
+  - datasets
+  - pandas
   - dbus
   - decorator
   - defusedxml
