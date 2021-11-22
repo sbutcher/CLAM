@@ -22,8 +22,6 @@ dependencies:
   - cffi
   - cycler
   - cython
-  - datasets
-  - pandas
   - dbus
   - decorator
   - defusedxml
@@ -173,6 +171,7 @@ dependencies:
     - coverage
     - cryptography
     - daphne
+    - datasets
     - django
     - djangorestframework
     - fasteners
